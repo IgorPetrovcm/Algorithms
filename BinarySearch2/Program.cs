@@ -1,10 +1,24 @@
 ﻿namespace BinarySearch 
 {
     using System;
+    using System.Diagnostics;
     using System.Runtime.CompilerServices;
 
     class Program 
     {
+        struct DataForSearch 
+        {
+            public byte Low {get;set;}
+            public byte Hight {get;set;}
+            public byte Index {get;set;}
+            public byte Val {get;set;}
+            public DataForSearch(Users[] users) 
+            {
+                Low = 0;
+                Hight = (byte)users.Length;                
+            }
+        }
+
         static Users GetUser(byte i) 
         {
             Users user = new Users();
@@ -18,6 +32,7 @@
             return user;
 
         }
+
          static void Main(string[] args) 
          {
             Console.Write("How many users to add: ");
@@ -35,32 +50,26 @@
             Console.Write("Output rhe user name under which id: ");
             byte idInput = byte.Parse(Console.ReadLine());
 
-            byte lowIndex = 0;
-            byte hightIndex = (byte)usersArr.Length;
-
-            byte indexSearch;
-            byte valueUnderIndex;
-
-            while (lowIndex <= hightIndex)
+            DataForSearch data = new DataForSearch(usersArr);
+            while (data.Low <= data.Hight)
             {
-                indexSearch = (byte)((lowIndex + hightIndex) / 2);
-                valueUnderIndex = usersArr[indexSearch].Id;
+                data.Index = (byte)((data.Low + data.Low) / 2);
+                data.Val = usersArr[data.Index].Id;
 
-                if (idInput == valueUnderIndex) 
+                if (idInput == data.Val) 
                 {
-                    Console.WriteLine(usersArr[indexSearch].Name);
-                    return;
+                    Console.WriteLine(usersArr[data.Index].Name);
+                    break;
                 }
-                if (indexSearch > idInput-1) 
+                if (data.Index > idInput-1) 
                 {
-                    hightIndex = (byte)(indexSearch-1);
+                    data.Hight = (byte)(data.Index-1);
                 }
                 else 
                 {
-                    lowIndex = (byte)(indexSearch+1);
+                    data.Low = (byte)(data.Index+1);
                 }
             }
-
          }
     }
 
