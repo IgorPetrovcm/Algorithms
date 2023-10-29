@@ -50,10 +50,13 @@
             Console.Write("Output rhe user name under which id: ");
             byte idInput = byte.Parse(Console.ReadLine());
 
+            byte numberIteration = 0;
             DataForSearch data = new DataForSearch(usersArr);
             while (data.Low <= data.Hight)
             {
-                data.Index = (byte)((data.Low + data.Low) / 2);
+                numberIteration++;
+
+                data.Index = (byte)((data.Low + data.Hight) / 2);
                 data.Val = usersArr[data.Index].Id;
 
                 if (idInput == data.Val) 
@@ -70,6 +73,8 @@
                     data.Low = (byte)(data.Index+1);
                 }
             }
+
+            Console.WriteLine("Number of iteration: " + numberIteration);
          }
     }
 
