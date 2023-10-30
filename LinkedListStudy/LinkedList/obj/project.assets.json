@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/admin/Общедоступные/csStudy/LinkedList/LinkedList.csproj",
+      "projectUniqueName": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/LinkedList/LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "/home/admin/Общедоступные/csStudy/LinkedList/LinkedList.csproj",
+      "projectPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/LinkedList/LinkedList.csproj",
       "packagesPath": "/home/admin/.nuget/packages/",
-      "outputPath": "/home/admin/Общедоступные/csStudy/LinkedList/obj/",
+      "outputPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/LinkedList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/admin/.nuget/NuGet/NuGet.Config"

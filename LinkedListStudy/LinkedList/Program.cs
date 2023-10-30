@@ -1,11 +1,17 @@
 ﻿ namespace Program
 {
     using System;
+    using System.Runtime.Serialization;
+    using System.Transactions;
+
     class Program
     {
         static void Main(string[] args)
         {
-            
+            LinkedList<string> linkList = new LinkedList<string>();
+            linkList.Add("Elisa");
+
+            Console.WriteLine(linkList.GetItem("Elisa"));
         }
     }
 
@@ -93,6 +99,19 @@
                 current = current.next;
             }
             return false;
+        }
+
+        public string GetItem(T item) 
+        {
+            Node<T> current = head;
+            while (current != null) 
+            {
+                if (current.value.Equals(item)) return current.value.ToString();
+                else {
+                    current = current.next;
+                }
+            }
+            return "not found";
         }
     }
 }
