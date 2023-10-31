@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/bin/Debug/net7.0/AddTwoNumbers
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/bin/Debug/net7.0/AddTwoNumbers.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/bin/Debug/net7.0/AddTwoNumbers.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/bin/Debug/net7.0/AddTwoNumbers.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/bin/Debug/net7.0/AddTwoNumbers.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/refint/AddTwoNumbers.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/AddTwoNumbers.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/AddTwoNumbers/obj/Debug/net7.0/ref/AddTwoNumbers.dll
