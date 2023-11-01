@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/bin/Debug/net7.0/MethodOfSplitingNamberDigits
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/bin/Debug/net7.0/MethodOfSplitingNamberDigits.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/bin/Debug/net7.0/MethodOfSplitingNamberDigits.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/bin/Debug/net7.0/MethodOfSplitingNamberDigits.dll
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/bin/Debug/net7.0/MethodOfSplitingNamberDigits.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.dll
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/refint/MethodOfSplitingNamberDigits.dll
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/MethodOfSplitingNamberDigits.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/Debug/net7.0/ref/MethodOfSplitingNamberDigits.dll
