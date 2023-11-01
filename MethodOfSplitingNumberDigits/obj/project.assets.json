@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/MethodOfSplitingNamberDigits.csproj",
+      "projectUniqueName": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNumberDigits/MethodOfSplitingNamberDigits.csproj",
       "projectName": "MethodOfSplitingNamberDigits",
-      "projectPath": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/MethodOfSplitingNamberDigits.csproj",
+      "projectPath": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNumberDigits/MethodOfSplitingNamberDigits.csproj",
       "packagesPath": "/home/admin/.nuget/packages/",
-      "outputPath": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNamberDigits/obj/",
+      "outputPath": "/home/admin/Общедоступные/csStudy/Algorithms/MethodOfSplitingNumberDigits/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/admin/.nuget/NuGet/NuGet.Config"

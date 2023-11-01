@@ -34,8 +34,19 @@
 
             //способ
             //схема храниться в папке под названием 'Sheme1.txt'
-            int value = 5308;
+            int value = 1234;
 
+            int current = value;
+            int reverseCurrent = 0;
+
+            while (current > 0) 
+            {
+                int unit = current % 10; // 1: 123 -> 4
+                current = current / 10; // 1: 123 -> -4
+                reverseCurrent = reverseCurrent * 10 + unit;
+            }
+
+            Console.WriteLine(reverseCurrent);
         }
     }
 }
