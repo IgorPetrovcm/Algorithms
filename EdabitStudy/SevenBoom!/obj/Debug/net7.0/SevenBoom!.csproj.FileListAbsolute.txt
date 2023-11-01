@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/bin/Debug/net7.0/SevenBoom!
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/bin/Debug/net7.0/SevenBoom!.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/bin/Debug/net7.0/SevenBoom!.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/bin/Debug/net7.0/SevenBoom!.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/bin/Debug/net7.0/SevenBoom!.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/refint/SevenBoom!.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/SevenBoom!.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SevenBoom!/obj/Debug/net7.0/ref/SevenBoom!.dll

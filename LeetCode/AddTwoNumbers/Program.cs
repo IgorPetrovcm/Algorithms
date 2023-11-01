@@ -37,7 +37,7 @@
             int val1 = GetValues(l1); 
             int val2 = GetValues(l2); 
  
-            int sum = val1+val2; 
+            int sum = val1+val2;
             string reversSum = GetReverseVal(sum.ToString()); 
  
             int i = 0; 
