@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/bin/Debug/net7.0/CanMakearIthmatic
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/bin/Debug/net7.0/CanMakearIthmatic.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/bin/Debug/net7.0/CanMakearIthmatic.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/bin/Debug/net7.0/CanMakearIthmatic.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/bin/Debug/net7.0/CanMakearIthmatic.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/refint/CanMakearIthmatic.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/CanMakearIthmatic.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/CanMakearIthmatic/obj/Debug/net7.0/ref/CanMakearIthmatic.dll
