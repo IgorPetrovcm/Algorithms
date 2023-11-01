@@ -5,7 +5,7 @@
     {
         static void Main(string[] args)
         {
-            int val1;
+            /*int val1;
             int number = 5308;
 
             val1 = number % 10;
@@ -28,7 +28,14 @@
             val1 = number % 100000;
             System.Console.WriteLine(val1);
             val1 /= 10000;
-            System.Console.WriteLine(val1);
+            System.Console.WriteLine(val1);*/
+
+            //Это не работает... и можно проще!
+
+            //способ
+            //схема храниться в папке под названием 'Sheme1.txt'
+            int value = 5308;
+
         }
     }
 }
