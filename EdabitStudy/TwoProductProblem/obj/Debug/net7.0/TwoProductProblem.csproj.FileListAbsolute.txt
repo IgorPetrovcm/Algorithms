@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/bin/Debug/net7.0/TwoProductProblem
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/bin/Debug/net7.0/TwoProductProblem.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/bin/Debug/net7.0/TwoProductProblem.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/bin/Debug/net7.0/TwoProductProblem.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/bin/Debug/net7.0/TwoProductProblem.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/refint/TwoProductProblem.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/TwoProductProblem.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/TwoProductProblem/obj/Debug/net7.0/ref/TwoProductProblem.dll
