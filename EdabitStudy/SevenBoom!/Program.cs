@@ -16,7 +16,7 @@
                 arr[i] = rand.Next(0,100000);
                 Console.Write($"{arr[i]}  ");
             }*/
-            int[] arr = new int[] {33, 68, 400, 5};
+            /*int[] arr = new int[] {33, 68, 400, 5};
 
             
             for (int i = 0; i < arr.Length; i++)
@@ -41,6 +41,29 @@
                     integerMultiplier *= 10;
                     
                     count++;
+                }
+            }
+            Console.WriteLine("there is no 7 in the array"); */
+
+            //new solution
+
+            int[] arr = {11,42,332,228,3};
+
+            for (int i = 0; i < arr.Length; i++) 
+            {
+                int current = arr[i];
+                
+
+                while (current > 0)
+                {
+                    int unit = current % 10;
+                    current = current / 10;
+
+                    if (unit == 7) 
+                    {
+                        Console.WriteLine("Boom!");
+                        return;
+                    }
                 }
             }
             Console.WriteLine("there is no 7 in the array");
