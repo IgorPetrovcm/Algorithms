@@ -9,7 +9,7 @@
             list.Add(5);
             list.Add(2);
             list.Add(3);
-            list.Remove(4);
+            bool remove = list.Remove(3);
             bool search = list.Search(6);
         }
     }
@@ -56,6 +56,7 @@
             Node node = head;
             while (node.val != val) 
             {
+                if (node.next == null) return false;
                 if (node.next.val == val) 
                 {
                     if (node.next == tail) {
@@ -67,9 +68,10 @@
                         node.next = node.next.next;
                         return true;
                     }
-                }                
+                }  
+                node = node.next;              
             }
-            return false;
+            return true;
 
         } 
     }

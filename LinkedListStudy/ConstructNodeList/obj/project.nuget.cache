@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1oC7/HrJU/hWNA0vSrUiaFXUVYDzr2Dn8wjDnftxpzR96igXz88ZMrDq1RfGgKEFOIqrc6CVU4h56TiHMnpMaQ==",
+  "dgSpecHash": "UB5PXEo7UNTWJfjFMRJnFWKsmw92raPfoEgLWYlpwMSk0q8ZG/naKQUD91egB5ludMXT9HdEyeeK+WMChW3m1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ConstructNodeList\\ConstructNodeList.csproj",
+  "projectFilePath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ConstructNodeList/ConstructNodeList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
