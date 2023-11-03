@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/bin/Debug/net7.0/ListNode6
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/bin/Debug/net7.0/ListNode6.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/bin/Debug/net7.0/ListNode6.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/bin/Debug/net7.0/ListNode6.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/bin/Debug/net7.0/ListNode6.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/refint/ListNode6.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ListNode6.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode6/obj/Debug/net7.0/ref/ListNode6.dll
