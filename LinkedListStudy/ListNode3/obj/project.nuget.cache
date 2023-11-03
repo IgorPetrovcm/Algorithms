@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wvek6YFHArgdVZKOGLFv+AmOlXxO0C9DYhxY1L4cfvDcgGZgq2b411r+GOlf7zPKn6hhvpBYq6eZ0czngwywww==",
+  "dgSpecHash": "m1nxEsv+g79jR7NzqiRwAj3A4xR9kCvzJQTksfJb9QDuTebcyFFCqd/AcZak2DzJRyipv9AZhc71plcaK63nsQ==",
   "success": true,
-  "projectFilePath": "/home/admin/Общедоступные/csStudy/ListNode2/ListNode2.csproj",
+  "projectFilePath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/ListNode2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

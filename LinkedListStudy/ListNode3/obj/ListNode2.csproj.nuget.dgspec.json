@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/admin/Общедоступные/csStudy/ListNode2/ListNode2.csproj": {}
+    "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/ListNode2.csproj": {}
   },
   "projects": {
-    "/home/admin/Общедоступные/csStudy/ListNode2/ListNode2.csproj": {
+    "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/ListNode2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/admin/Общедоступные/csStudy/ListNode2/ListNode2.csproj",
+        "projectUniqueName": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/ListNode2.csproj",
         "projectName": "ListNode2",
-        "projectPath": "/home/admin/Общедоступные/csStudy/ListNode2/ListNode2.csproj",
+        "projectPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/ListNode2.csproj",
         "packagesPath": "/home/admin/.nuget/packages/",
-        "outputPath": "/home/admin/Общедоступные/csStudy/ListNode2/obj/",
+        "outputPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/admin/.nuget/NuGet/NuGet.Config"
