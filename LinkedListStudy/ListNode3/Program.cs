@@ -2,64 +2,28 @@
 {
     class Program 
     {
-        /*public static void SortNodeList(NodeList list, out NodeList listSort1, out NodeList listSort2) 
+        public static void SortedNodeList(NodeList listMain, out NodeList listSorted1, out NodeList listSorted2) 
         {
-            listSort1 = new NodeList(); 
-            listSort2 = new NodeList();
+            listSorted1 = new NodeList();
+            listSorted2 = new NodeList();
+            Node node = listMain.head;
 
-            Node node = list.head;
-            while (node.next != null) 
+            while (node != null) 
             {
-                if (node.val > -1) 
+                if (node.val > -1)
                 {
-                    listSort1.Add(node.val);
+                    listSorted1.Add(node.val);
                     node = node.next;
                 }
-                if (node.val < 0) 
+                else if (node.val < 0) 
                 {
-                    listSort2.Add(node.val);
+                    listSorted2.Add(node.val);
                     node = node.next;
                 }
-                
-            } 
-        }*/
+            }
+        }
         static void Main() 
         {
-            /*int multiplier = 1;   
-
-            NodeList list = new NodeList();
-            for (int i = 0; i < 6; i++ ) 
-            {
-                list.Add(i * multiplier);
-                multiplier *= -1;
-            } 
-
-            NodeList sort1 ;
-            NodeList sort2 ;
-            SortNodeList(list,out sort1, out sort2);
-
-            Node node = list.head;
-            for (int i = 0; i < 6; i++) 
-            {
-                Console.Write($"{node.val} ");
-                node = node.next;
-            }
-            Console.WriteLine();
-
-            node = sort1.head;
-            while (node.next != null) 
-            {
-                Console.Write($"{node.val} ");
-                node = node.next;
-            }
-            Console.WriteLine();
-
-            node = sort2.head;
-            while (node.next != null) 
-            {
-                Console.Write($"{node.val} ");
-                node = node.next;
-            }*/
 
             int multiplier = 1;
             NodeList list = new NodeList();
@@ -68,15 +32,14 @@
                 list.Add(i * multiplier);
                 multiplier *= -1;
             }
-            Node node = list.head;
+            /*Node node = list.head;
             while (node != null) 
             {
                 Console.WriteLine(node.val);
                 node = node.next;
             }
 
-            NodeList sort1 = new NodeList();
-            NodeList sort2 = new NodeList();
+
 
             node = list.head;
             while (node != null) 
@@ -91,9 +54,13 @@
                     sort2.Add(node.val);
                     node = node.next;
                 }
-            }
+            } */
 
-            node = sort1.head;
+            NodeList sort1 ;
+            NodeList sort2 ;
+
+            SortedNodeList(list, out sort1, out sort2);
+            Node node = sort1.head;
             while (node != null) 
             {
                 Console.Write(node.val + " ");
