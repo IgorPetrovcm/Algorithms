@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/bin/Debug/net7.0/ListNode5
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/bin/Debug/net7.0/ListNode5.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/bin/Debug/net7.0/ListNode5.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/bin/Debug/net7.0/ListNode5.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/bin/Debug/net7.0/ListNode5.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/refint/ListNode5.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ListNode5.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode5/obj/Debug/net7.0/ref/ListNode5.dll
