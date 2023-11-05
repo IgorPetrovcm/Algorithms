@@ -7,24 +7,20 @@
     {
         static void Main(string[] args)
         {
-            int[] arr = {1,2,3,4,5,6};
+            int[] arr = {2,1,3,5,4,6,7};
             int k = 2;
-            int trueCount = 0;
-            for (int i = 0; i < arr.Length; i++) {
-                for (int j = i; j < arr.Length; j++) 
-                {
-                    if (arr[i] < arr[j]) {
-                        trueCount = 0;
-                        break;
-                    }
-
-                    trueCount++;
-                    if (trueCount == k) {
-                        Console.Write(arr[i]);
-                        return;
-                    }
+            int count = 0;
+            int max = arr[0];
+            for (int i = 1; i < arr.Length && count != k; i++) 
+            {
+                if (max < arr[i]) {
+                    max = arr[i];
+                    count = 1;
+                    continue;
                 }
+                count++;
             }
+            Console.WriteLine(max);
         }
     }
 }
