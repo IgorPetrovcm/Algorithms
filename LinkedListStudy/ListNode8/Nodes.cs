@@ -37,6 +37,7 @@ namespace Program
             while (node != null) 
             {
                 count++;
+                node = node.next;
             }
 
             return count;

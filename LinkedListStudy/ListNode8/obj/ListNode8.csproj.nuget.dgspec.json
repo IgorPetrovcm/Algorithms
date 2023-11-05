@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ListNode8\\ListNode8.csproj": {}
+    "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode8/ListNode8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ListNode8\\ListNode8.csproj": {
+    "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode8/ListNode8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ListNode8\\ListNode8.csproj",
+        "projectUniqueName": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode8/ListNode8.csproj",
         "projectName": "ListNode8",
-        "projectPath": "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ListNode8\\ListNode8.csproj",
-        "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\Desktop\\study C#\\StudyungTheTopics\\LinkedList\\ListNode8\\obj\\",
+        "projectPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode8/ListNode8.csproj",
+        "packagesPath": "/home/admin/.nuget/packages/",
+        "outputPath": "/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
