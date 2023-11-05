@@ -9,42 +9,22 @@
         {
             int[] arr = {1,2,3,4,5,6};
             int k = 2;
-            int winCount = 0;
-            while (true) 
-            {              
-                if (winCount == k) break;  
-                if (arr[0] > arr[1]) 
+            int trueCount = 0;
+            for (int i = 0; i < arr.Length; i++) {
+                for (int j = i; j < arr.Length; j++) 
                 {
-                    winCount++;
-                    int unit = arr[1];
-                    for (int i = 1; i < arr.Length;i++) 
-                    {
-                        if (i == arr.Length-1) 
-                        {
-                            arr[i] = unit;
-                            break;
-                        }
-                        arr[i] = arr[i+1];
-                        
+                    if (arr[i] < arr[j]) {
+                        trueCount = 0;
+                        break;
                     }
-                }
-                if (arr[0] < arr[1])
-                {
-                    winCount = 0;
-                    int unit = arr[0];
-                    arr[0] = arr[1];
-                    for (int i = 1; i < arr.Length;i++) 
-                    {
-                        if (i == arr.Length-1) 
-                        {
-                            arr[i] = unit;
-                            break;
-                        }
-                        arr[i] = arr[i+1];
+
+                    trueCount++;
+                    if (trueCount == k) {
+                        Console.Write(arr[i]);
+                        return;
                     }
                 }
             }
-            Console.Write(arr[0]);
         }
     }
 }
