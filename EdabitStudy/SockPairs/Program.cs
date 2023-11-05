@@ -5,7 +5,7 @@
     {
         static void Main(string[] args)
         {
-            string socks = "ABABC";
+            string socks = "ABABAB";
             string[] arr = new string[socks.Length];
             for (int i = 0; i < arr.Length;i++) 
             {
@@ -16,12 +16,13 @@
 
             string ost = arr[0];
             int result = 0;
-            int count = 0;
+            int count = 1;
             for (int i = 1; i < arr.Length;i++) {
                 if (arr[i] != ost) {
                     ost = arr[i];
                     result += count /2;
                     count = 1;
+                    continue;
                 }
                 count++;
             }
