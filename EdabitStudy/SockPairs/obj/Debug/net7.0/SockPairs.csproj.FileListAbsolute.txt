@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/bin/Debug/net7.0/SockPairs
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/bin/Debug/net7.0/SockPairs.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/bin/Debug/net7.0/SockPairs.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/bin/Debug/net7.0/SockPairs.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/bin/Debug/net7.0/SockPairs.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/refint/SockPairs.dll
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/SockPairs.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/EdabitStudy/SockPairs/obj/Debug/net7.0/ref/SockPairs.dll
