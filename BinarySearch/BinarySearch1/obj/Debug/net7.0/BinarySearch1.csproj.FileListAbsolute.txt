@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/bin/Debug/net7.0/BinarySearch1
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/bin/Debug/net7.0/BinarySearch1.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/bin/Debug/net7.0/BinarySearch1.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/bin/Debug/net7.0/BinarySearch1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/bin/Debug/net7.0/BinarySearch1.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/refint/BinarySearch1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/BinarySearch1.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/BinarySearch1/obj/Debug/net7.0/ref/BinarySearch1.dll
