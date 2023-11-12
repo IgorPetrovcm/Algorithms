@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\bin\Debug\net7.0\ListNode13.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\bin\Debug\net7.0\ListNode13.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\bin\Debug\net7.0\ListNode13.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\bin\Debug\net7.0\ListNode13.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\bin\Debug\net7.0\ListNode13.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\refint\ListNode13.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ListNode13.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNode13\obj\Debug\net7.0\ref\ListNode13.dll
