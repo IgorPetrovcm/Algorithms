@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\bin\Debug\net7.0\ValidParentheses.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\bin\Debug\net7.0\ValidParentheses.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\bin\Debug\net7.0\ValidParentheses.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\bin\Debug\net7.0\ValidParentheses.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\bin\Debug\net7.0\ValidParentheses.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\refint\ValidParentheses.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidParentheses\obj\Debug\net7.0\ref\ValidParentheses.dll
