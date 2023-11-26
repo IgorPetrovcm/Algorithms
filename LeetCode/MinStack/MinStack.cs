@@ -1,7 +1,7 @@
 namespace Program 
 {
     using System; 
-    public class StackElement 
+    public struct StackElement 
     {
         public int val; 
         public StackElement next;
