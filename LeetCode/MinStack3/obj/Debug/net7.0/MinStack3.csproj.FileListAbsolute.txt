@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/bin/Debug/net7.0/MinStack3
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/bin/Debug/net7.0/MinStack3.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/bin/Debug/net7.0/MinStack3.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/bin/Debug/net7.0/MinStack3.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/bin/Debug/net7.0/MinStack3.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/refint/MinStack3.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/MinStack3.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/MinStack3/obj/Debug/net7.0/ref/MinStack3.dll

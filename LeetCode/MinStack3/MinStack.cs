@@ -24,9 +24,11 @@ namespace Program
         }
         public int GetMin() 
         {
-            int[] valuesSorted = values;
-            Array.Sort(valuesSorted);
-            return valuesSorted[0];
+            int min = values[0];
+            for (int i = 1; i < count; i++) {
+                if (values[i] < min) min = values[i];
+            }
+            return min;
         }
     }
 }
