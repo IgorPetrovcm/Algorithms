@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\bin\Debug\net7.0\Stack2.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\bin\Debug\net7.0\Stack2.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\bin\Debug\net7.0\Stack2.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\bin\Debug\net7.0\Stack2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\bin\Debug\net7.0\Stack2.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\refint\Stack2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\Stack2.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\Stack2\obj\Debug\net7.0\ref\Stack2.dll
