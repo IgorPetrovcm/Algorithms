@@ -6,10 +6,12 @@
         static void Main(string[] args)
         {
             MinStack stack = new MinStack(); 
-            stack.Push(2);
-            stack.Push(3);
-            stack.Push(4);
-            stack.Push(1);
+            stack.Push(-2);
+            stack.Push(0);
+            stack.Push(-3);
+            System.Console.WriteLine(stack.GetMin());
+            stack.Pop();
+            System.Console.WriteLine(stack.Top());
             System.Console.WriteLine(stack.GetMin());
         }
     }

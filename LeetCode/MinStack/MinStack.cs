@@ -38,7 +38,7 @@ namespace Program
             MinStack stack  = new MinStack();
             stack.Push(valMin);
             StackElement element = head.next;
-            while (element.next != null) {
+            while (element != null) {
                 if (element.val < valMin) {
                     stack.Push(element.val);
                     valMin = element.val;
