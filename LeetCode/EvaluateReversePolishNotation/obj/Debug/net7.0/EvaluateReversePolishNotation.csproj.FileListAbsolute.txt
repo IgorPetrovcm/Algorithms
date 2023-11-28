@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\bin\Debug\net7.0\EvaluateReversePolishNotation.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\bin\Debug\net7.0\EvaluateReversePolishNotation.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\bin\Debug\net7.0\EvaluateReversePolishNotation.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\bin\Debug\net7.0\EvaluateReversePolishNotation.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\bin\Debug\net7.0\EvaluateReversePolishNotation.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\refint\EvaluateReversePolishNotation.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\EvaluateReversePolishNotation.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\EvaluateReversePolishNotation\obj\Debug\net7.0\ref\EvaluateReversePolishNotation.dll
