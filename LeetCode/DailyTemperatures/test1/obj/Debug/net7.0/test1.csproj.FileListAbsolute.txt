@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/bin/Debug/net7.0/test1
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/bin/Debug/net7.0/test1.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/bin/Debug/net7.0/test1.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/bin/Debug/net7.0/test1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/bin/Debug/net7.0/test1.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/refint/test1.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/test1.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LeetCode/DailyTemperatures/test1/obj/Debug/net7.0/ref/test1.dll
