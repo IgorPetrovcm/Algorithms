@@ -1,22 +1,29 @@
-﻿namespace Program;
+﻿using System.Runtime.InteropServices;
+using System.Transactions;
+
+namespace Program;
 class Program 
 {
     static void Main() 
     {
-        int[] temperatures = {73, 74,75,71,69,72,76,73};
-        int[] output = new int[temperatures.Length];
-        for (int i = 0; i < temperatures.Length;i++) 
-        {
-            for (int j = i+1 ; j < temperatures.Length; j++) 
-            {
-                if (temperatures[j] > temperatures[i])  
-                {
-                    output[i] = j - i;
+        int[] arr = {73,74,75,71,69,72,76,73};
+        int current = 0;
+        for (int i = 0; i < arr.Length; ++i) {  
+                      
+            while (arr[i+current] <= arr[i]) {
+                if (i+current == arr.Length-1) {
+                    current = 0 ;
                     break;
                 }
+                current++;                
             }
+            
+            arr[i] = current;
+            current = 0;           
         }
-
-        for (int i = 0; i < output.Length;i++) System.Console.WriteLine(output[i]);
+        foreach (int a in arr) 
+        {
+            System.Console.WriteLine(a);
+        }
     }
 }
