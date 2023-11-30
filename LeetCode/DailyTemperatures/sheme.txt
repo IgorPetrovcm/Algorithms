@@ -1,0 +1,53 @@
+71 72 73 75 69 68 71 76 72
+
+stack: -> 71
+stack: 71;
+
+71 72 73 75 69 68 71 76 72
+
+72 > 71
+________________1
+
+     0  1  2  3  4  5  6  7  8 
+arr: 71 72 73 75 69 68 71 76 72
+
+output: _size = arr_size
+
+stack: -> arr[0]
+
+i = 1; i < arr_size; i++
+
+index = i
+if arr[i] > stack_top 
+
+_________________________2
+0,1,2,3,4,5,6,7
+1,2,3,5,1,2,3,8
+
+0 4 1 5 2 6 3 7 
+1,1,2,2,3,3,5,8
+
+_________________________3
+
+stack: arr[0] ---_1
+
+stack: 71 
+
+if arr[1] > stack_top then 
+
+
+ompt = 1
+        try:
+
+            while temperatures[i + compt] <= temperatures[i]:
+                compt = compt + 1
+            answer.append(compt)
+        except IndexError:
+            answer.append(0)
+    return answer
+
+
+____________________________4
+
+arr ---_1
+
