@@ -19,6 +19,33 @@ x>y<z
     1. x > z z<x>y --- 010
     2. x < z z>x>y --- 210 
 
+В итоге:
+
+0  1  2  3  4  5  6  7
+73,74,75,71,69,72,76,73
+
+stack: 0
+
+i = array_size ; i >= 0 ; --i
+
+stack = null_values then
+нечего удалять
+if stack = null_values then 
+пишем в итоговый массив output[i] - 0
+0,0,0,0,0,0,_0
+stack push _i
+continue -->
+
+
+i = 6
+нечего удалять и stack top > array[i]
+if stack = null_values then 
+пишем output[i] - 0
+0,0,0,0,0,_0,0
+continue -->
+
+i = 5
+stack top < array[i] then
 
 
 
