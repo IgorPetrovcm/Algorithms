@@ -32,5 +32,6 @@ class Program
         if ((Encoding.Unicode.GetByteCount(t)) == (Encoding.Unicode.GetByteCount(a1))) {
             System.Console.WriteLine("true");
         }
+        //не работает...
     }
 }

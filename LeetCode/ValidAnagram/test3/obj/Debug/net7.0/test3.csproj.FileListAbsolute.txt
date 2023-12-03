@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\bin\Debug\net7.0\test3.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\bin\Debug\net7.0\test3.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\bin\Debug\net7.0\test3.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\bin\Debug\net7.0\test3.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\bin\Debug\net7.0\test3.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\refint\test3.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\test3.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test3\obj\Debug\net7.0\ref\test3.dll
