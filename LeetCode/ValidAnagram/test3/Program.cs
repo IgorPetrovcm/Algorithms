@@ -7,6 +7,7 @@ class Program
         string t = "нагарам";
                 
         HashSet<char> hash = new HashSet<char>(s);
+        hash.;
         foreach (var c in hash) 
         {
             System.Console.WriteLine(c);
