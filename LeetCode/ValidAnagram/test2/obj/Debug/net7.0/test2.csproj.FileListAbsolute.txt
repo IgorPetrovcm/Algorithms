@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\bin\Debug\net7.0\test2.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\bin\Debug\net7.0\test2.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\bin\Debug\net7.0\test2.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\bin\Debug\net7.0\test2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\bin\Debug\net7.0\test2.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\refint\test2.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\test2.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LeetCode\ValidAnagram\test2\obj\Debug\net7.0\ref\test2.dll
