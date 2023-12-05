@@ -1,24 +1,70 @@
-program Practic8;var num: longint;
+program Practic9;var num: longint;
 var multiplier, current: integer;var numReverse: longint;
-function ReverseNumber(num: longint; multi:integer) : longint;begin
-    current:=num;    multi:=multi div 10;
-    num:=num mod multi;    if (num > 10) then begin
-        numReverse:= ReverseNumber(num,multi);    end;
-    numReverse:=numReverse * 10 + (current div multi);    ReverseNumber:=numReverse;
-end;begin
-    write('Input number: ');     readln(num);
-    current:= num;    multiplier:=1;
-    while current <> 0 do    begin
-        current:=current div 10;
+function ReverseNumber(num: longint; multi:integer) : longint;var current: integer;
+begin    current:=num;
+    multi:=multi div 10;    num:=num mod multi;
+    if (current < 10) then begin      ReverseNumber:=current;
+      exit    end;
+    numReverse:= ReverseNumber(num,multi);    numReverse:=numReverse * 10 + (current div multi);
+    ReverseNumber:=numReverse;end;
+begin    write('Input number: ');
+    readln(num);    current:= num;
+    multiplier:=1;    while current <> 0 do
+    begin        current:=current div 10;
         multiplier:= multiplier * 10;    end;
     numReverse:=ReverseNumber(num,multiplier);    writeln(numReverse);
 end.
-
 
 
 General solution iterations
 
 Допустим, 'num = 123'
 Нам нужно узнать количество разрядов, для получения множителя, 'multiplier'
-Мы будет циклично убирать последний разряд из числа и при каждом таком действии 'multiplier' учеличивается в 10 разряд
-'num' изменять не будем
+Мы будет циклично убирать последний разряд из числа и при каждом таком действии 'multiplier' учеличивается в 10 разряд. Делаем это до таго момента, пока число больше '0'
+'num' изменять не будем, поэтому скопируем ее в 'current'
+'multiplier' назначим стартовый возможный разряд '1'
+/*
+current:=num; multiplier:=1;
+while current <> 0 do begin
+    current:=current div 10; ->убираем разряд с конца
+    multiplier:=multiplier * 10; -> увеличиваем множитель 10
+end;
+*/
+
+'numReverse' - является ответом пользователю, то есть число введенное, но в обратном направлении
+'numReverse = ReverseNumber(num,multiplier);'
+
+Функция 'ReverseNumber' получаем два параметра: 'num' и 'multi',сщщтветственно множитель 'multiplier'
+numReverse = ReverseNumber(123,1000)
+
+Первая итерация:
+
+current = 123
+multi = 100
+num = 23
+if current(123) < 10 (false)
+numReverse = "Вторая итерация" (= ReverseNumber(23,100))
+
+Вторая итерация:
+
+current = 23
+multi = 10
+num = 3
+if (current(23) < 10) (false)
+numReverse = "Третья итерация" (= ReverseNumber(3,10))
+
+Третья итерация:
+current = 3
+multi = 1
+if (current < 10) (true) -> возвращает 'current'(3). Возвращаемся ко второй итерации
+
+Вторая итерация - продолжение:
+
+теперь - numReverse = 3
+numRevers = 3 * 10 + ("локальный 'current'"(23) / "локальный'multi'"(10)) -> 30 + 2 = 32
+теперь возвращаем 'numRevers'(32). Возвращаемся к первой итерации
+
+Первая итерация - продолжение:
+теперб - numReverse = 32
+numReverse = 32 * 10 + ("локальный 'current'"(123) / "локальный'multi'"(100)) -> 320 + 1 = 321
+теперь возвращаем 'numRevers'(321). Возвращаемся в основному блоку программы и выводим '321' (true);
