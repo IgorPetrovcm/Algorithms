@@ -1,0 +1,24 @@
+program Practic8;var num: longint;
+var multiplier, current: integer;var numReverse: longint;
+function ReverseNumber(num: longint; multi:integer) : longint;begin
+    current:=num;    multi:=multi div 10;
+    num:=num mod multi;    if (num > 10) then begin
+        numReverse:= ReverseNumber(num,multi);    end;
+    numReverse:=numReverse * 10 + (current div multi);    ReverseNumber:=numReverse;
+end;begin
+    write('Input number: ');     readln(num);
+    current:= num;    multiplier:=1;
+    while current <> 0 do    begin
+        current:=current div 10;
+        multiplier:= multiplier * 10;    end;
+    numReverse:=ReverseNumber(num,multiplier);    writeln(numReverse);
+end.
+
+
+
+General solution iterations
+
+Допустим, 'num = 123'
+Нам нужно узнать количество разрядов, для получения множителя, 'multiplier'
+Мы будет циклично убирать последний разряд из числа и при каждом таком действии 'multiplier' учеличивается в 10 разряд
+'num' изменять не будем
