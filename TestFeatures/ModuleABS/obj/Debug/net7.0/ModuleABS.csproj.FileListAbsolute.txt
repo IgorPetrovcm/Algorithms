@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/bin/Debug/net7.0/ModuleABS
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/bin/Debug/net7.0/ModuleABS.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/bin/Debug/net7.0/ModuleABS.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/bin/Debug/net7.0/ModuleABS.dll
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/bin/Debug/net7.0/ModuleABS.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.dll
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/refint/ModuleABS.dll
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ModuleABS.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/TestFich/ModuleABS/obj/Debug/net7.0/ref/ModuleABS.dll

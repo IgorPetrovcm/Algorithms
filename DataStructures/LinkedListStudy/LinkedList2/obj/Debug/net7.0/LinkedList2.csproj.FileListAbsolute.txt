@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\bin\Debug\net7.0\LinkedList2.exe
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\bin\Debug\net7.0\LinkedList2.deps.json
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\bin\Debug\net7.0\LinkedList2.runtimeconfig.json
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\bin\Debug\net7.0\LinkedList2.dll
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\bin\Debug\net7.0\LinkedList2.pdb
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.dll
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\refint\LinkedList2.dll
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.pdb
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\LinkedList2.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study_C#\StudyungTheTopics\LinkedList\LinkedList2\obj\Debug\net7.0\ref\LinkedList2.dll

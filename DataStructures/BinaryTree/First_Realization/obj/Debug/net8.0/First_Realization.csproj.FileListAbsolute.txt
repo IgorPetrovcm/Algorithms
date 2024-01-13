@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\bin\Debug\net8.0\First_Realization.exe
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\bin\Debug\net8.0\First_Realization.deps.json
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\bin\Debug\net8.0\First_Realization.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\bin\Debug\net8.0\First_Realization.dll
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\bin\Debug\net8.0\First_Realization.pdb
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.dll
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\refint\First_Realization.dll
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.pdb
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\First_Realization.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\DataStructures\BinaryTree\First_Realization\obj\Debug\net8.0\ref\First_Realization.dll

@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\bin\Debug\net7.0\ListNdoe7.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\bin\Debug\net7.0\ListNdoe7.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\bin\Debug\net7.0\ListNdoe7.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\bin\Debug\net7.0\ListNdoe7.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\bin\Debug\net7.0\ListNdoe7.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\refint\ListNdoe7.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ListNdoe7.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\LinkedList\ListNdoe7\obj\Debug\net7.0\ref\ListNdoe7.dll

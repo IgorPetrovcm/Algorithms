@@ -1,0 +1,14 @@
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/bin/Debug/net7.0/ListNode4
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/bin/Debug/net7.0/ListNode4.deps.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/bin/Debug/net7.0/ListNode4.runtimeconfig.json
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/bin/Debug/net7.0/ListNode4.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/bin/Debug/net7.0/ListNode4.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.AssemblyInfoInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.AssemblyInfo.cs
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.csproj.CoreCompileInputs.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/refint/ListNode4.dll
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.pdb
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ListNode4.genruntimeconfig.cache
+/home/admin/Общедоступные/csStudy/Algorithms/LinkedListStudy/ListNode4/obj/Debug/net7.0/ref/ListNode4.dll

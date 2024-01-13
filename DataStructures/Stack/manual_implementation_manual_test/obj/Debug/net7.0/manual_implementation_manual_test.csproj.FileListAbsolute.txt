@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\bin\Debug\net7.0\manual_implementation_manual_test.exe
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\bin\Debug\net7.0\manual_implementation_manual_test.deps.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\bin\Debug\net7.0\manual_implementation_manual_test.runtimeconfig.json
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\bin\Debug\net7.0\manual_implementation_manual_test.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\bin\Debug\net7.0\manual_implementation_manual_test.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.AssemblyInfo.cs
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\refint\manual_implementation_manual_test.dll
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.pdb
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\manual_implementation_manual_test.genruntimeconfig.cache
+C:\Users\Honor\Desktop\study C#\StudyungTheTopics\Stack\manual_implementation_manual_test\obj\Debug\net7.0\ref\manual_implementation_manual_test.dll
