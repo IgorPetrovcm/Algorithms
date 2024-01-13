@@ -25,4 +25,33 @@ public class Node
         Left = node;
     }
 
+    public void RemoveLeftLink()
+    {
+        Left = null;
+    }
+    public void RemoveRightLink()
+    {
+        Right = null;
+    }
+
+    public static Node DescentToLeft(Node node)
+    {
+        while (node.Left != null)
+        {
+            node = node.Left;
+        }
+        return node;
+    }
+
+    public static Node DescentToRight(Node node)
+    {
+        while (node.Right != null)
+        {
+            node = node.Right;
+        }
+        return node;
+    }
+
+
+
 }
