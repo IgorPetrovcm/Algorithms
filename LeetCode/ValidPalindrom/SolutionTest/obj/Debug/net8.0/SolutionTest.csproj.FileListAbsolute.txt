@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\bin\Debug\net8.0\SolutionTest.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\bin\Debug\net8.0\SolutionTest.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\bin\Debug\net8.0\SolutionTest.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\bin\Debug\net8.0\SolutionTest.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\bin\Debug\net8.0\SolutionTest.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\refint\SolutionTest.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\SolutionTest.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidPalindrom\SolutionTest\obj\Debug\net8.0\ref\SolutionTest.dll
