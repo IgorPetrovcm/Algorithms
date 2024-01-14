@@ -112,7 +112,14 @@ public class Tree
                     {
                         current.Left.AddLinkToRight(current.Right);
 
-                        if ()
+                        if (rootCurrent.Left == current)
+                        {
+                            rootCurrent.AddLinkToLeft(current.Left);
+                        }
+                        else
+                        {
+                            rootCurrent.AddLinkToRight(current.Left);
+                        }
                     }
                     return;
                 }
@@ -133,15 +140,33 @@ public class Tree
                 }
                 else if (current.Right != null)
                 {
-                    rootCurrent.AddLinkToRight(current.Right);
+                    if (rootCurrent.Left == current)
+                    {
+                        rootCurrent.AddLinkToLeft(current.Right);
 
-                    current.RemoveRightLink();
+                        current.RemoveRightLink();
+                    }
+                    else 
+                    {
+                        rootCurrent.AddLinkToRight(current.Right);
+
+                        current.RemoveRightLink();
+                    }
                 }
                 else 
                 {
-                    rootCurrent.AddLinkToRight(current.Left);
+                    if (rootCurrent.Left == current)
+                    {
+                        rootCurrent.AddLinkToLeft(current.Left);
 
-                    current.RemoveLeftLink();
+                        current.RemoveLeftLink();
+                    }
+                    else 
+                    {
+                        rootCurrent.AddLinkToRight(current.Left);
+
+                        current.RemoveLeftLink();
+                    }
                 }
                 return;
             }
