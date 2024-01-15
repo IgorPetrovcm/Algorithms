@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\bin\Debug\net8.0\TestSolutions.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\bin\Debug\net8.0\TestSolutions.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\bin\Debug\net8.0\TestSolutions.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\bin\Debug\net8.0\TestSolutions.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\bin\Debug\net8.0\TestSolutions.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\refint\TestSolutions.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\TestSolutions.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\GroupAnagrams\TestSolutions\obj\Debug\net8.0\ref\TestSolutions.dll
