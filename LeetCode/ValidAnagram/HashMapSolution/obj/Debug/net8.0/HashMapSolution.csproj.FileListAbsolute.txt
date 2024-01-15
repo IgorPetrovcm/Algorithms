@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\bin\Debug\net8.0\HashMapSolution.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\bin\Debug\net8.0\HashMapSolution.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\bin\Debug\net8.0\HashMapSolution.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\bin\Debug\net8.0\HashMapSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\bin\Debug\net8.0\HashMapSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\refint\HashMapSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\HashMapSolution.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\HashMapSolution\obj\Debug\net8.0\ref\HashMapSolution.dll
