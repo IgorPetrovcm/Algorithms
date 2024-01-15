@@ -5,7 +5,7 @@ public class Program
 {
     static void Main()
     {
-        string[] strs = {"",""};
+        string[] strs = {"eat","tea","tan","ate","nat","bat"};
 
         foreach (IList<string> strsReadyRead in Anagrams(strs))
         {
@@ -19,55 +19,29 @@ public class Program
 
     static IList<IList<string>> Anagrams(string[] strs)
     {
-        Dictionary<char[],List<string>> table = new Dictionary<char[],List<string>>();
+        Dictionary<string,IList<string>> table = new Dictionary<string,IList<string>>();
 
         for (int i = 0; i < strs.Length; i++)
         {
-            bool addno = false;
+            char[] hash = new char[26];
 
-            foreach (char[] key in table.Keys)
-            {   
-                addno = true;
-                if (key.Length == 0)
-                {
-                    addno = false;
-
-                    break;
-                }
-                foreach (char c in key)
-                {
-                    if (!strs[i].Contains(c))
-                    {
-                        addno = false;
-
-                        break;
-                    }
-                }
-                if (addno)
-                {
-                    table[key].Add(strs[i]);
-
-                    break; 
-                }
-            }
-            if (!addno)
+            for (int j = 0; j < strs[i].Length; j++)
             {
-                if (table.ContainsKey(strs[i].ToCharArray()))
-                {
-                    table[strs[i].ToCharArray()].Add(strs[i]);
-                }
-                else
-                    table.Add(strs[i].ToCharArray(),new List<string>{strs[i]});
+                hash[strs[i][j] - 'a']++;                    
+            }
+
+            string str = new string(hash);
+
+            if (!table.ContainsKey(str))
+            {
+                table.Add(str, new List<string>(){strs[i]});
+            }
+            else 
+            {
+                table[str].Add(strs[i]);
             }
         }
 
-        IList<IList<string>> anagrams = new List<IList<string>>();
-
-        foreach (var value in table.Values)
-        {
-            anagrams.Add(value);
-        }
-
-        return anagrams;
+        return table.Values.ToList();
     }
 }
