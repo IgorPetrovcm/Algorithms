@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\bin\Debug\net8.0\SystemSolution.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\bin\Debug\net8.0\SystemSolution.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\bin\Debug\net8.0\SystemSolution.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\bin\Debug\net8.0\SystemSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\bin\Debug\net8.0\SystemSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\refint\SystemSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\SystemSolution.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\SystemSolution\obj\Debug\net8.0\ref\SystemSolution.dll
