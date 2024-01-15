@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\bin\Debug\net8.0\TestSolution_HashMap.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\bin\Debug\net8.0\TestSolution_HashMap.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\bin\Debug\net8.0\TestSolution_HashMap.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\bin\Debug\net8.0\TestSolution_HashMap.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\bin\Debug\net8.0\TestSolution_HashMap.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\refint\TestSolution_HashMap.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\TestSolution_HashMap.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ValidAnagram\TestSolution_HashMap\obj\Debug\net8.0\ref\TestSolution_HashMap.dll
