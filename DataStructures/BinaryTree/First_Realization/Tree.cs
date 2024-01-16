@@ -30,7 +30,7 @@ public class Tree
                     }
                     else 
                     {
-                        currentNode.AddLinkToRight(node);
+                        currentNode.Right.Add(node);
                     }
                 }
                 else
@@ -41,7 +41,7 @@ public class Tree
                     }
                     else 
                     {
-                        currentNode.AddLinkToLeft(node);
+                        currentNode.Left.Add(node);
                     }
                 }
             }
@@ -64,61 +64,61 @@ public class Tree
                     {
                         Node applicant = current.Left.Right;
 
-                        current.Left.RemoveRightLink();
+                        current.Left.Right.Remove();
 
                         if (applicant.Left != null && applicant.Right != null)
                         {
                             Node nodeTailFromApplicant = Node.DescentToLeft(applicant);
 
-                            nodeTailFromApplicant.AddLinkToLeft(current.Left);
+                            nodeTailFromApplicant.Left.Add(current.Left);
 
                             nodeTailFromApplicant = Node.DescentToRight(applicant);
 
-                            nodeTailFromApplicant.AddLinkToRight(current.Right);                     
+                            nodeTailFromApplicant.Right.Add(current.Right);                     
                         }
                         else if (applicant.Left != null && applicant.Right == null)
                         {
                             Node nodeTailFromApplicant = Node.DescentToLeft(applicant);
 
-                            nodeTailFromApplicant.AddLinkToLeft(current.Left);   
+                            nodeTailFromApplicant.Left.Add(current.Left);   
 
-                            applicant.AddLinkToRight(current.Right);
+                            applicant.Right.Add(current.Right);
                         }
                         else if (applicant.Left == null && applicant.Right != null)
                         {
                             Node nodeTailFromApplicant = Node.DescentToRight(applicant);
 
-                            nodeTailFromApplicant.AddLinkToRight(current.Right);
+                            nodeTailFromApplicant.Right.Add(current.Right);
 
-                            applicant.AddLinkToLeft(current.Left);
+                            applicant.Left.Add(current.Left);
                         }
                         else 
                         {
-                            applicant.AddLinkToLeft(current.Left);
+                            applicant.Left.Add(current.Left);
 
-                            applicant.AddLinkToRight(current.Right);
+                            applicant.Right.Add(current.Right);
                         }
 
                         if (rootCurrent.Left == current)
                         {
-                            rootCurrent.AddLinkToLeft(applicant);
+                            rootCurrent.Left.Add(applicant);
                         }                   
                         else 
                         {
-                            rootCurrent.AddLinkToRight(applicant);
+                            rootCurrent.Right.Add(applicant);
                         }
                     }
                     else 
                     {
-                        current.Left.AddLinkToRight(current.Right);
+                        current.Left.Right.Add(current.Right);
 
                         if (rootCurrent.Left == current)
                         {
-                            rootCurrent.AddLinkToLeft(current.Left);
+                            rootCurrent.Left.Add(current.Left);
                         }
                         else
                         {
-                            rootCurrent.AddLinkToRight(current.Left);
+                            rootCurrent.Right.Add(current.Left);
                         }
                     }
                     return;
@@ -127,11 +127,11 @@ public class Tree
                 {
                     if (current == rootCurrent.Left)
                     {
-                        rootCurrent.RemoveLeftLink();
+                        rootCurrent.Left.Remove();
                     }
                     else if (current == rootCurrent.Right)
                     {
-                        rootCurrent.RemoveRightLink();
+                        rootCurrent.Right.Remove();
                     }
                     else 
                     {
@@ -142,30 +142,30 @@ public class Tree
                 {
                     if (rootCurrent.Left == current)
                     {
-                        rootCurrent.AddLinkToLeft(current.Right);
+                        rootCurrent.Left.Add(current.Right);
 
-                        current.RemoveRightLink();
+                        current.Right.Remove();
                     }
                     else 
                     {
-                        rootCurrent.AddLinkToRight(current.Right);
+                        rootCurrent.Right.Add(current.Right);
 
-                        current.RemoveRightLink();
+                        current.Right.Remove();
                     }
                 }
                 else 
                 {
                     if (rootCurrent.Left == current)
                     {
-                        rootCurrent.AddLinkToLeft(current.Left);
+                        rootCurrent.Left.Add(current.Left);
 
-                        current.RemoveLeftLink();
+                        current.Left.Remove();
                     }
                     else 
                     {
-                        rootCurrent.AddLinkToRight(current.Left);
+                        rootCurrent.Right.Add(current.Left);
 
-                        current.RemoveLeftLink();
+                        current.Left.Remove();
                     }
                 }
                 return;
@@ -183,6 +183,19 @@ public class Tree
                     current = current.Left;
                 }
             }
+        }
+    }
+
+    public void CreateTreeWithArray(int[] arr)
+    {
+        if (Root != null)
+        {
+            Root = null;
+        }
+
+        for (int i = 0; i < arr.Length; i++)
+        {
+            Add(arr[i]);
         }
     }
 }

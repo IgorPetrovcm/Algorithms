@@ -2,12 +2,12 @@ namespace First_Realization;
 
 
 public class Node
-{
-    public Node? Left {get; private set;}
+{  
+    public Node? Left {get; protected set;}
 
-    public Node? Right {get; private set;}
+    public Node? Right {get; protected set;}
 
-    public int Value {get; private set;} 
+    public int Value {get; protected set;} 
 
 
     public Node(int value)
@@ -15,33 +15,6 @@ public class Node
         Value = value;
     }
 
-
-    public void AddLinkToRight(Node node)
-    {
-        Right = node;
-    }
-    public void AddLinkToLeft(Node node)
-    {
-        Left = node;
-    }
-
-    public void RemoveLeftLink()
-    {
-        Left = null;
-    }
-    public void RemoveRightLink()
-    {
-        Right = null;
-    }
-
-    public static Node DescentToLeft(Node node)
-    {
-        while (node.Left != null)
-        {
-            node = node.Left;
-        }
-        return node;
-    }
 
     public static Node DescentToRight(Node node)
     {
@@ -52,6 +25,26 @@ public class Node
         return node;
     }
 
+    public static Node DescentToLeft(Node node)
+    {
+        while (node.Left != null)
+        {
+            node = node.Left;
+        }
+        return node;
+    }
+}
 
+public static class NodeTools 
+{
+    public static void Add(this Node currentNode, Node node)
+    {
+        currentNode = node;
+    }
 
+    public static void Remove(this Node currentNode)
+    {
+        if (currentNode == null) return;
+        currentNode = null;
+    }
 }
