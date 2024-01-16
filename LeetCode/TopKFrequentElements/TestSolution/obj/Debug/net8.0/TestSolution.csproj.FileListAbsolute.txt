@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\bin\Debug\net8.0\TestSolution.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\bin\Debug\net8.0\TestSolution.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\bin\Debug\net8.0\TestSolution.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\bin\Debug\net8.0\TestSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\bin\Debug\net8.0\TestSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\refint\TestSolution.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\TestSolution.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\TopKFrequentElements\TestSolution\obj\Debug\net8.0\ref\TestSolution.dll
