@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\bin\Debug\net8.0\Solution1.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\bin\Debug\net8.0\Solution1.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\bin\Debug\net8.0\Solution1.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\bin\Debug\net8.0\Solution1.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\bin\Debug\net8.0\Solution1.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\refint\Solution1.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\Solution1.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1\obj\Debug\net8.0\ref\Solution1.dll
