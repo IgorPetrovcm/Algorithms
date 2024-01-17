@@ -1,0 +1,15 @@
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\bin\Debug\net8.0\Solution1Undestand.exe
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\bin\Debug\net8.0\Solution1Undestand.deps.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\bin\Debug\net8.0\Solution1Undestand.runtimeconfig.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\bin\Debug\net8.0\Solution1Undestand.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\bin\Debug\net8.0\Solution1Undestand.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.AssemblyInfoInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.AssemblyInfo.cs
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.csproj.CoreCompileInputs.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.sourcelink.json
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\refint\Solution1Undestand.dll
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.pdb
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\Solution1Undestand.genruntimeconfig.cache
+C:\Users\igorp\Programming\Algorithms\LeetCode\ProductOfArrayExceptSelf\Solution1Undestand\obj\Debug\net8.0\ref\Solution1Undestand.dll
