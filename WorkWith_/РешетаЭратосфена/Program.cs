@@ -5,45 +5,32 @@ public class Program
 {
     static void Main()
     {
-        Algorithm(120);
+        Algorithm2(120);
     }
 
-    public static void Algorithm(int n)
+
+    public static void Algorithm2(int n)
     {
         bool[] s = new bool[n];
 
-        GetPrimeNumbers(s, 1);
-    }
+        s[1] = true;
 
-    public static void GetPrimeNumbers(bool[] s, int index)
-    {
-        int firstIndex = index;
-
-        for (int i = index + 1; i < s.Length && index == firstIndex; i++)
+        for (int i = 2; i * i <= s.Length; i++)
         {
             if (s[i] == false)
-            {
-                index = i;
-                Console.WriteLine(index);
-
-                break;
-            }
-        }
-
-        if (firstIndex == index)
-            return;
-        
-        for (int i = index + 1; i < s.Length; i++)
-        {
-            if (s[i] == false)
-            {
-                if (i % index == 0) 
+            {   
+                for (int j = i * i; j < s.Length; j += i)
                 {
-                    s[i] = true;
+                    s[j] = true;
                 }
             }
         }
 
-        GetPrimeNumbers(s, index);
+        for (int i = 0; i < s.Length; i++)
+        {
+            if (s[i] == false)
+                System.Console.WriteLine(i);
+        }
     }
+
 }
